@@ -1,3 +1,5 @@
 a=10
 b=5
-809334cc8e1033123fb74b771ea8c2446ff35573
+
+print("The diff is")
+print (a-b)
